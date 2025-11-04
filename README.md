@@ -1,8 +1,8 @@
 - 👋 Name: "Jose David Castillo",
 - 📍 Country: "DM Repuplic 🇩🇴",
 - 🧑 Age: "19",
-- 👨‍💻 AskMeAbout: "Javascript and Frond end",
-- ✍️ Learning: "C# and React",
+- 👨‍💻 AskMeAbout: "Python, C# and Frond end",
+- ✍️ Learning: "JavaScript and React",
 - 💼 Workplace: "unemployed",
 - 📖 Education: "Itla and Learning by myself",
   
